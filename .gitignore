@@ -1,3 +1,4 @@
 .env
 __pycache__
-service_account.json*.mp4
+service_account.json
+*.mp4
