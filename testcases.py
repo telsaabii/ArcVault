@@ -37,8 +37,8 @@ curl -X POST "http://127.0.0.1:8000/ingest" \
            "message": "I'\''m not sure if this is the right place to ask, but is there a way to set up SSO with Okta? We'\''re evaluating switching our auth provider.",
            "source": "email",
            "sender": "it_admin@evaluator.com"
-         }
-'"""
+         }'
+"""
 #-----------------------------------------
 """
 curl -X POST "http://127.0.0.1:8000/ingest" \
